@@ -1,1 +1,15 @@
-test123
+﻿test123
+
+寫給大家的 Git 教學
+http://www.slideshare.net/littlebtc/git-5528339
+
+Github Windows
+http://windows.github.com/
+
+Github Mac
+http://mac.github.com/
+
+
+http://developer.android.com/guide/topics/ui/layout/linear.html
+
+http://developer.android.com/guide/topics/ui/layout/relative.html
